@@ -1,0 +1,11 @@
+Stains in each raw image folder 
+
+1. Shivan_100XOPL_pkc_alpha folder
+Blue -> DAPI
+Red-> pkc alpha
+greens -> psd 95 (not important for me)
+
+2. Shivan_pkc_scgn folder 
+Blue -> DAPI
+red -> scgn  (cone bipolar cells)
+green -> pkc alpha (rod bipolar cells + one amacrine)
